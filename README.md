@@ -3,15 +3,13 @@
 Welcome to the classic **Snake Game** developed in **Python** using the **Pygame** library!  
 This version features custom difficulty levels, sound effects, colorful graphics, score tracking, and responsive controls.
 
-## 🎮 Demo Video
 
-🎥 [Watch on YouTube](https://youtu.be/your-demo-link-here)  
-*(Replace with your actual video link)*
+
 
 ## 📸 Screenshot
 
-![Snake Game Screenshot](assets/screenshot.png)  
-*(Make sure to place a screenshot image at `assets/screenshot.png` in your repo)*
+![Snake Game Screenshot](screenshot.png)  
+
 
 ## 🚀 Features
 
@@ -71,4 +69,3 @@ If you want to see the game in action:
 
 🧑‍💻 Author
 Akash Raj
-GitHub: @your-username

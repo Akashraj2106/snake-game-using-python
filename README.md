@@ -62,10 +62,7 @@ C – Continue after losing
 
 Q – Quit the game
 
-📹 Gameplay Preview
-If you want to see the game in action:
 
-📺 Watch gameplay
 
 🧑‍💻 Author
 Akash Raj
